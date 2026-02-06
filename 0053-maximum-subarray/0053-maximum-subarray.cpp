@@ -3,20 +3,33 @@ public:
     int maxSubArray(vector<int>& nums) {
         int n=nums.size();
         int s=0;
-        int mx=INT_MIN;
-        if(n==1){
-            return nums[0];
-        }
+        int m=nums[0];
         for(int i=0;i<n;i++){
-            s=s+nums[i];
-            mx=max(mx,s);
-            if(s<0){
-                s=0;
-            }
+            s=max(nums[i],s+nums[i]);
+            m=max(m,s);
         }
-        return mx;
+        return m;
     }
 };
+// class Solution {
+// public:
+//     int maxSubArray(vector<int>& nums) {
+//         int n=nums.size();
+//         int s=0;
+//         int mx=INT_MIN;
+//         if(n==1){
+//             return nums[0];
+//         }
+//         for(int i=0;i<n;i++){
+//             s=s+nums[i];
+//             mx=max(mx,s);
+//             if(s<0){
+//                 s=0;
+//             }
+//         }
+//         return mx;
+//     }
+// };
 
 // class Solution {
 // public:
