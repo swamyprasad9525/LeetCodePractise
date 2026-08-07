@@ -49,6 +49,7 @@
 | [0009-palindrome-number](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0486-predict-the-winner) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
