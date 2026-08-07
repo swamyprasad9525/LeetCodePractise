@@ -8,6 +8,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/swamyprasad9525/LeetCodePractise/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/swamyprasad9525/LeetCodePractise/tree/main/0217-contains-duplicate/) | Easy |
 | [0486-predict-the-winner](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0486-predict-the-winner) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/swamyprasad9525/LeetCodePractise/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/1732-find-the-highest-altitude) |
@@ -52,6 +53,7 @@
 | [0412-fizz-buzz](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0486-predict-the-winner) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
