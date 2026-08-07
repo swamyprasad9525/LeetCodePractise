@@ -10,6 +10,7 @@
 | [0486-predict-the-winner](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0486-predict-the-winner) |
 | [1672-richest-customer-wealth](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/swamyprasad9525/LeetCodePractise/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/1672-richest-customer-wealth) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
