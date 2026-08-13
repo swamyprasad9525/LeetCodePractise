@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/swamyprasad9525/LeetCodePractise/tree/main/0001-two-sum/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/swamyprasad9525/LeetCodePractise/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/swamyprasad9525/LeetCodePractise/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0486-predict-the-winner) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/1672-richest-customer-wealth) |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/1732-find-the-highest-altitude) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
