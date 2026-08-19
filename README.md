@@ -81,6 +81,7 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0584-find-customer-referee) |
