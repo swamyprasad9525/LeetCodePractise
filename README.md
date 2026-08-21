@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/swamyprasad9525/LeetCodePractise/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/swamyprasad9525/LeetCodePractise/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/swamyprasad9525/LeetCodePractise/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0283-move-zeroes) |
@@ -75,6 +76,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0283-move-zeroes) |
 ## Database
 |  |
