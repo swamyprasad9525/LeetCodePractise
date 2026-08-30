@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/swamyprasad9525/LeetCodePractise/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/swamyprasad9525/LeetCodePractise/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0485-max-consecutive-ones) |
@@ -96,4 +97,8 @@
 | [1683-invalid-tweets](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/1873-calculate-special-bonus) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
