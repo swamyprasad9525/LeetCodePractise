@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/swamyprasad9525/LeetCodePractise/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/swamyprasad9525/LeetCodePractise/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0485-max-consecutive-ones) |
@@ -21,11 +22,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/swamyprasad9525/LeetCodePractise/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/swamyprasad9525/LeetCodePractise/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/swamyprasad9525/LeetCodePractise/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/swamyprasad9525/LeetCodePractise/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/swamyprasad9525/LeetCodePractise/tree/main/0242-valid-anagram/) | Easy |
 ## String
@@ -101,4 +104,16 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
