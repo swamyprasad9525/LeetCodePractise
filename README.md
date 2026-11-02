@@ -34,6 +34,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/swamyprasad9525/LeetCodePractise/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/swamyprasad9525/LeetCodePractise/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/swamyprasad9525/LeetCodePractise/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0412-fizz-buzz) |
@@ -84,6 +85,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/swamyprasad9525/LeetCodePractise/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/swamyprasad9525/LeetCodePractise/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/swamyprasad9525/LeetCodePractise/tree/main/0344-reverse-string/) | Easy |
 ## Database
